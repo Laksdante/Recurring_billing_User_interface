@@ -1,0 +1,26 @@
+{
+  "name": "recurring_billing_user_interface",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laksdante/Recurring_billing_User_interface.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laksdante/Recurring_billing_User_interface/issues"
+  },
+  "homepage": "https://github.com/Laksdante/Recurring_billing_User_interface#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "stripe": "^18.0.0"
+  }
+}
